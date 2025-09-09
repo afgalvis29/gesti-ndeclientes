@@ -59,6 +59,6 @@ Automatización desarrollada con **Google Apps Script** para Propiedata, que opt
 ##  Conecta conmigo
 
 ¿Quieres colaborar o replicar este proyecto?  
-- Email: **andresgalvis99@outlook.com**  
+- Email: **afgalvis29@gmail.com**  
 - LinkedIn: [Andrés Galvis](https://www.linkedin.com/in/andresgalvis99)
 
